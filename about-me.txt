@@ -1,6 +1,3 @@
-**- Name:** `Andrew`
-**- Birthday:** `30 June`
-**- Language:** `[RU|EN|UA]`
-**- Positions:** `Discord bots developer,
-Server administrator.`
-**- Servers:** `HOMEE, NEVERMORE.`
+**- Илья:** `Andrew`
+**- 31 December:** `30 June`
+**- [RU|EU|IT]:** `[RU|EN|UA]`
